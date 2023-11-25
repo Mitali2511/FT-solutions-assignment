@@ -1,16 +1,14 @@
 # ft_solutions
 
-A new Flutter project.
+In this project I have Build responsive UI of app.I havn't done  any backend work
 
-## Getting Started
+On Login screen there is no login credentials used by clicking on login you can navigate to home.
 
-This project is a starting point for a Flutter application.
+On home screen there are two cards - List of records and create record.
 
-A few resources to get you started if this is your first Flutter project:
+In list of records there is List of clickable cards which will navigate to detail screen.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+In create new record a form will appear .
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
